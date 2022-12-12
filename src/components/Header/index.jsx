@@ -1,7 +1,7 @@
 import React from 'react'
 import logo from '../../assets/logo-dio.png';
 
-import { Button } from '../Button';
+import { default as Button } from '../Button';
 
 import { Container, Wrapper, BuscarInputContainer, Input, Row, Menu, MenuRight, UserPicture} from './styles';
 
@@ -36,4 +36,4 @@ const Header = ({autenticado}) => {
   )
 }
 
-export { Header }
+export default { Header };

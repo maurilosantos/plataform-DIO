@@ -1,7 +1,7 @@
 import { useNavigate } from "react-router-dom";
 import { useForm } from "react-hook-form";
 
-import Header from "../../components/Header/";
+import Header from "../../components/Header";
 import Button from "../../components/Button";
 import Input from "../../components/Input";
 

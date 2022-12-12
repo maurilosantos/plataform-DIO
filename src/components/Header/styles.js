@@ -24,7 +24,7 @@ export const Wrapper = styled.div`
     width: 100%;
     height: 47px;
     display:flex
-    justify-content: center;
+    justify-content center;
     align-items: center
 `
 
